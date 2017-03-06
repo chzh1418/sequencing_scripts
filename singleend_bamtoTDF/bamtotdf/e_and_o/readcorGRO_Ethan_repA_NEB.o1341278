@@ -1,0 +1,3 @@
+Working directory is /scratch/Users/allenma/scripts/singleend/bamtotdf
+/scratch/Users/allenma/scripts/singleend/testbam//sortedbams/GRO_Ethan_repA_NEB.sorted.bam.flagstat 32835206
+createing /scratch/Users/allenma/scripts/singleend/testbam//sortedbams/genomecoveragebed/fortdf/GRO_Ethan_repA_NEB.BedGraph.mp.BedGraph

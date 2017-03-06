@@ -1,0 +1,18 @@
+Working directory is /scratch/Users/allenma/scripts/singleend/bamtotdf
+starting sortedbam submit
+GRO_Eli_repA_NEB
+/scratch/Users/allenma/scripts/singleend/testbam2/
+/scratch/Users/allenma/scripts/singleend/testbam2//sortedbams/
+complete sortedbam submit
+File found
+starting bedgraph submit
+1341331.pando-core
+completed bedgraph submit
+File found
+starting read depth correction submit
+1341335.pando-core
+completed read depth correction submit
+File found
+starting tdf conversion submit
+1341336.pando-core
+completed tdf conversion submit

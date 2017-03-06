@@ -1,0 +1,212 @@
+Working directory is /scratch/Users/allenma/scripts/singleend/BamtoTDFStrandsSpecific
+finished bam sort
+finished counting infile
+finished indexing sorted bam file
+finished counting sorted bam file
+finished checking that the sorted bam file has the same number of reads as the unsorted
+finished building histogram of positive strand
+finished building histogram of negative strand
+finished concatining Bedgraph files
+finished sorting the Begraph file with both strands
+/scratch/Users/allenma/scripts/singleend/testbam3//sortedbams/GRO_Eli_repA_NEB.sorted.bam.flagstat 24853286
+createing /scratch/Users/allenma/scripts/singleend/testbam3//sortedbams/genomecoveragebed/fortdf/GRO_Eli_repA_NEB.BedGraph.mp.BedGraph
+finished correcting for millions mapped
+INFO [2017-02-16 17:02:04,353]  [DirectoryManager.java:149] [main]  IGV Directory: /Users/allenma/igv
+toTDF.  File = /scratch/Users/allenma/scripts/singleend/testbam3//sortedbams/genomecoveragebed/fortdf/GRO_Eli_repA_NEB.BedGraph.mp.BedGraph
+Max zoom = 7
+Window functions: mean 
+INFO [2017-02-16 17:02:04,422]  [GenomeManager.java:101] [main]  Loading genome: /opt/igvtools/2.1.24/genomes/hg19.genome
+INFO [2017-02-16 17:02:04,584]  [GenomeManager.java:125] [main]  Genome loaded.  id= hg19
+
+Processing chromosome chr1
+....
+Processing chromosome chr10
+..
+Processing chromosome chr11
+...
+Processing chromosome chr11_gl000202_random
+
+Processing chromosome chr12
+10.0% 
+..
+Processing chromosome chr13
+.
+Processing chromosome chr14
+.
+Processing chromosome chr15
+..
+Processing chromosome chr16
+..
+Processing chromosome chr17
+.20.0% 
+.
+Processing chromosome chr17_ctg5_hap1
+
+Processing chromosome chr17_gl000203_random
+
+Processing chromosome chr17_gl000204_random
+
+Processing chromosome chr17_gl000205_random
+
+Processing chromosome chr17_gl000206_random
+
+Processing chromosome chr18
+.
+Processing chromosome chr19
+..
+Processing chromosome chr19_gl000208_random
+
+Processing chromosome chr19_gl000209_random
+
+Processing chromosome chr1_gl000191_random
+
+Processing chromosome chr1_gl000192_random
+
+Processing chromosome chr2
+....
+Processing chromosome chr20
+.
+Processing chromosome chr21
+30.0% 
+
+Processing chromosome chr21_gl000210_random
+
+Processing chromosome chr22
+.
+Processing chromosome chr3
+...
+Processing chromosome chr4
+..
+Processing chromosome chr4_ctg9_hap1
+
+Processing chromosome chr4_gl000193_random
+
+Processing chromosome chr4_gl000194_random
+
+Processing chromosome chr5
+...
+Processing chromosome chr6
+40.0% 
+.
+Processing chromosome chr6_apd_hap1
+
+Processing chromosome chr6_cox_hap2
+
+Processing chromosome chr6_dbb_hap3
+
+Processing chromosome chr6_mann_hap4
+
+Processing chromosome chr6_mcf_hap5
+.
+Processing chromosome chr6_qbl_hap6
+
+Processing chromosome chr6_ssto_hap7
+
+Processing chromosome chr7
+..
+Processing chromosome chr7_gl000195_random
+
+Processing chromosome chr8
+..
+Processing chromosome chr8_gl000196_random
+
+Processing chromosome chr8_gl000197_random
+
+Processing chromosome chr9
+..
+Processing chromosome chr9_gl000198_random
+
+Processing chromosome chr9_gl000199_random
+
+Processing chromosome chr9_gl000200_random
+
+Processing chromosome chr9_gl000201_random
+
+Processing chromosome chrM
+
+Processing chromosome chrUn_gl000211
+
+Processing chromosome chrUn_gl000212
+
+Processing chromosome chrUn_gl000213
+
+Processing chromosome chrUn_gl000214
+
+Processing chromosome chrUn_gl000215
+
+Processing chromosome chrUn_gl000216
+
+Processing chromosome chrUn_gl000217
+
+Processing chromosome chrUn_gl000218
+
+Processing chromosome chrUn_gl000219
+
+Processing chromosome chrUn_gl000220
+.
+Processing chromosome chrUn_gl000221
+
+Processing chromosome chrUn_gl000222
+
+Processing chromosome chrUn_gl000223
+
+Processing chromosome chrUn_gl000224
+
+Processing chromosome chrUn_gl000225
+
+Processing chromosome chrUn_gl000226
+
+Processing chromosome chrUn_gl000227
+
+Processing chromosome chrUn_gl000228
+
+Processing chromosome chrUn_gl000229
+
+Processing chromosome chrUn_gl000230
+
+Processing chromosome chrUn_gl000231
+
+Processing chromosome chrUn_gl000232
+
+Processing chromosome chrUn_gl000233
+
+Processing chromosome chrUn_gl000234
+
+Processing chromosome chrUn_gl000235
+
+Processing chromosome chrUn_gl000236
+
+Processing chromosome chrUn_gl000237
+
+Processing chromosome chrUn_gl000238
+
+Processing chromosome chrUn_gl000239
+
+Processing chromosome chrUn_gl000240
+
+Processing chromosome chrUn_gl000241
+
+Processing chromosome chrUn_gl000242
+
+Processing chromosome chrUn_gl000243
+
+Processing chromosome chrUn_gl000244
+
+Processing chromosome chrUn_gl000245
+
+Processing chromosome chrUn_gl000246
+
+Processing chromosome chrUn_gl000247
+
+Processing chromosome chrUn_gl000248
+
+Processing chromosome chrUn_gl000249
+
+Processing chromosome chrX
+50.0% 
+
+Processing chromosome chrY
+Group idx: 1
+100.0% 
+Done
+finished making tdf

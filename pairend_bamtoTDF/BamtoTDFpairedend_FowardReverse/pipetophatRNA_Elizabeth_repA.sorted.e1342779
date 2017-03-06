@@ -1,0 +1,16 @@
+Error: The requested file (/scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.pairfirst.pos.bed) could not be opened. Error message: (No such file or directory). Exiting!
+Error: The requested file (/scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.pairfirst.neg.bed) could not be opened. Error message: (No such file or directory). Exiting!
+Error: The requested file (/scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.pairsecond.pos.bed) could not be opened. Error message: (No such file or directory). Exiting!
+Error: The requested file (/scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.pairsecond.neg.bed) could not be opened. Error message: (No such file or directory). Exiting!
+bedtools: unionBedGraphs.cpp:99: CHRPOS UnionBedGraphs::ConsumeNextCoordinate(): Assertion `!queue.empty()' failed.
+/opt/bedtools/2.22.0/unionBedGraphs: line 2: 57271 Aborted                 (core dumped) ${0%/*}/bedtools unionbedg "$@"
+bedtools: unionBedGraphs.cpp:99: CHRPOS UnionBedGraphs::ConsumeNextCoordinate(): Assertion `!queue.empty()' failed.
+/opt/bedtools/2.22.0/unionBedGraphs: line 2: 57275 Aborted                 (core dumped) ${0%/*}/bedtools unionbedg "$@"
+cat: /scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams//genomecoveragebedpair/.pos.Bedgraph: No such file or directory
+Traceback (most recent call last):
+  File "/scratch/Users/allenma/scripts/pairend_bamtoTDF/BamtoTDFpairedend_FowardReverse/correctBedgraphmillionsmapped.py", line 55, in <module>
+    main(Bedgraphfile, millionsmappedfile)
+  File "/scratch/Users/allenma/scripts/pairend_bamtoTDF/BamtoTDFpairedend_FowardReverse/correctBedgraphmillionsmapped.py", line 27, in main
+    f = open(Bedgraphfile)
+IOError: [Errno 2] No such file or directory: '/scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.BedGraph'
+File not found: /scratch/Users/allenma/scripts/testbam/paireddatabackup//sortedbams/genomecoveragebedpair/fortdf/tophatRNA_Elizabeth_repA.sorted.BedGraph.mp.BedGraph

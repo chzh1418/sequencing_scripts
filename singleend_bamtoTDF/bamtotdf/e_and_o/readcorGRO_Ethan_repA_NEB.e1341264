@@ -1,0 +1,5 @@
+/var/spool/torque/mom_priv/jobs/1341264.pando-core.SC: line 20: module: command not found
+  File "/scratch/Users/allenma/scripts/singleend/bamtotdf/correctBedgraphmillionsmapped.py", line 46
+    if len(sys.argv)>1
+                     ^
+SyntaxError: invalid syntax

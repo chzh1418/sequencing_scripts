@@ -1,0 +1,6 @@
+INFO [2017-02-17 16:01:13,706] [DirectoryManager.java:149]  IGV Directory: /Users/allenma/igv
+INFO [2017-02-17 16:01:13,771] [GenomeManager.java:101]  Loading genome: /opt/igvtools/2.1.24/genomes/hg19.genome
+INFO [2017-02-17 16:01:13,930] [GenomeManager.java:125]  Genome loaded.  id= hg19
+INFO [2017-02-17 16:05:59,972] [DirectoryManager.java:149]  IGV Directory: /Users/allenma/igv
+INFO [2017-02-17 16:06:00,072] [GenomeManager.java:101]  Loading genome: /opt/igvtools/2.1.24/genomes/hg19.genome
+INFO [2017-02-17 16:06:00,249] [GenomeManager.java:125]  Genome loaded.  id= hg19

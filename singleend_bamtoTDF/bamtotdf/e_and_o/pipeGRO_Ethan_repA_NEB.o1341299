@@ -1,0 +1,31 @@
+Working directory is /scratch/Users/allenma/scripts/singleend/bamtotdf
+starting sortedbam submit
+GRO_Ethan_repA_NEB
+/scratch/Users/allenma/scripts/singleend/testbam2/
+/scratch/Users/allenma/scripts/singleend/testbam2//sortedbams/
+1341301.pando-core
+complete sortedbam submit
+File found
+0a1,11
+> 36045636 + 0 in total (QC-passed reads + QC-failed reads)
+> 0 + 0 duplicates
+> 32835206 + 0 mapped (91.09%:-nan%)
+> 0 + 0 paired in sequencing
+> 0 + 0 read1
+> 0 + 0 read2
+> 0 + 0 properly paired (-nan%:-nan%)
+> 0 + 0 with itself and mate mapped
+> 0 + 0 singletons (-nan%:-nan%)
+> 0 + 0 with mate mapped to a different chr
+> 0 + 0 with mate mapped to a different chr (mapQ>=5)
+starting bedgraph submit
+1341303.pando-core
+completed bedgraph submit
+File found
+starting read depth correction submit
+1341314.pando-core
+completed read depth correction submit
+File found
+starting tdf conversion submit
+1341315.pando-core
+completed tdf conversion submit

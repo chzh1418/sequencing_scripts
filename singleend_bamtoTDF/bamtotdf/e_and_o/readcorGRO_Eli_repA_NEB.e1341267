@@ -1,0 +1,5 @@
+/var/spool/torque/mom_priv/jobs/1341267.pando-core.SC: line 20: module: command not found
+  File "/scratch/Users/allenma/scripts/singleend/bamtotdf/correctBedgraphmillionsmapped.py", line 50
+    print "python correctBedgraphmillionsmapped.py <Bedgraphfile after cat with pos and negative strands> <flagstat file>
+                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
