@@ -1,9 +1,0 @@
-Working directory is /scratch/Users/allenma/scripts/pairend_bamtoTDF/BamtoTDFpairedend_FowardReverse
-finished bam sort
-finished counting infile
-finished indexing sorted bam file
-finished counting sorted bam file
-finished checking that the sorted bam file has the same number of reads as the unsorted
-finished correcting for millions mapped
-Done
-finished making tdf

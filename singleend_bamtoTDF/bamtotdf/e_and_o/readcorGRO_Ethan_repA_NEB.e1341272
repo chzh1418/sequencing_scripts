@@ -1,5 +1,0 @@
-/var/spool/torque/mom_priv/jobs/1341272.pando-core.SC: line 20: module: command not found
-Traceback (most recent call last):
-  File "/scratch/Users/allenma/scripts/singleend/bamtotdf/correctBedgraphmillionsmapped.py", line 46, in <module>
-    if len(sys.argv)>1:
-NameError: name 'sys' is not defined
